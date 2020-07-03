@@ -1,0 +1,932 @@
+! 6/29/2020 https://subhd.tv
+subhd.tv##.carousel-inner
+
+! 7/1/2020 https://ithelp.ithome.com.tw
+ithelp.ithome.com.tw##.clearfix.header__inner
+ithelp.ithome.com.tw##.rightside
+
+! 7/1/2020 https://www.ithome.com.tw
+www.ithome.com.tw###skybanner
+www.ithome.com.tw###block-block-3
+www.ithome.com.tw##.content > .side-extra
+www.ithome.com.tw##.region-sidebar-second.region
+! 7/3/2020 https://www.ithome.com.tw
+www.ithome.com.tw###block-block-45
+www.ithome.com.tw###block-block-10
+www.ithome.com.tw###block-block-22 > .social-btn-set
+www.ithome.com.tw##.region-footer.region
+www.ithome.com.tw###block-block-37
+
+
+! 7/2/2020 http://highscalability.com
+highscalability.com###moduleContentWrapper4869210
+
+##.pixnet-happix-pilot__launcher-bubble
+
+! 12/27/2018, 11:45:11 PM https://tw.appledaily.com/new/realtime
+||img.appledaily.com.tw/aws/tw/compone/d54fcb35bb4c45b9f06e2853df310703.jpg$image
+
+! 1/3/2019, 12:40:46 AM https://www.taaze.tw/rwd_index.html
+www.taaze.tw###topBannerSource
+
+! 1/3/2019, 12:40:58 AM https://www.taaze.tw/rwd_index.html
+www.taaze.tw##.col-md-12.col-sm-12 > .noticeArea > div:nth-of-type(2) > .notice-out
+
+! 1/3/2019, 12:41:07 AM https://www.taaze.tw/rwd_index.html
+||media.taaze.tw/showBanaerImage.html?pk=1000498596&width=1000&height=250&fill=f$image
+
+! 1/3/2019, 12:41:24 AM https://www.taaze.tw/rwd_index.html
+||media.taaze.tw/showBanaerImage*$image
+
+! 1/3/2019, 12:41:47 AM https://www.taaze.tw/goods/11100839687.html
+www.taaze.tw##div:nth-of-type(3) > .container_PC.container > .row
+
+! 1/3/2019, 12:42:05 AM https://www.taaze.tw/goods/11100839687.html
+www.taaze.tw##.col-md-3.col-sm-4 > .giftPanel.panel-default > .giftPanelBody.panel-body
+
+! 1/3/2019, 12:42:16 AM https://www.taaze.tw/goods/11100839687.html
+www.taaze.tw###alsobuyCarousel
+
+! 1/3/2019, 12:42:44 AM https://www.taaze.tw/goods/11100839687.html
+www.taaze.tw###sameCollectCarousel
+
+! 1/3/2019, 12:42:54 AM https://www.taaze.tw/goods/11100839687.html
+www.taaze.tw###hotItemsCarousel
+
+! 1/3/2019, 12:43:01 AM https://www.taaze.tw/goods/11100839687.html
+www.taaze.tw##div.hidden-md.hidden-sm.hidden-xs:nth-of-type(20) > .container
+
+! 1/3/2019, 12:43:12 AM https://www.taaze.tw/goods/11100839687.html
+www.taaze.tw###prodComment
+
+! 1/3/2019, 12:44:07 AM https://www.taaze.tw/cart.html
+www.taaze.tw##div.sp-add-item.row:nth-of-type(1)
+
+! 1/3/2019, 12:44:40 AM https://www.taaze.tw/cart.html
+www.taaze.tw##div.sp-add-item.row:nth-of-type(2)
+
+! 1/3/2019, 12:44:52 AM https://www.taaze.tw/cart.html
+www.taaze.tw##div.sp-add-item.row:nth-of-type(5)
+
+! 1/3/2019, 12:44:57 AM https://www.taaze.tw/cart.html
+www.taaze.tw##div.sp-add-item.row:nth-of-type(4)
+
+! 1/3/2019, 12:45:04 AM https://www.taaze.tw/cart.html
+www.taaze.tw##div.sp-add-item.row:nth-of-type(3)
+
+! 1/3/2019, 12:45:12 AM https://www.taaze.tw/cart.html
+www.taaze.tw##div.row:nth-of-type(6) > .col-xs-12 > span > strong
+
+! 1/3/2019, 12:45:17 AM https://www.taaze.tw/cart.html
+www.taaze.tw##div.row:nth-of-type(3) > .col-xs-12 > span > strong
+
+! 1/3/2019, 12:45:24 AM https://www.taaze.tw/cart.html
+||www.taaze.tw/images/cart/ba699_p.png$image
+
+! 1/3/2019, 12:45:31 AM https://www.taaze.tw/cart.html
+www.taaze.tw##div.hidden-md.hidden-sm.hidden-xs:nth-of-type(7) > .container
+
+! 1/3/2019, 12:45:43 AM https://www.taaze.tw/cart.html
+www.taaze.tw###notice_body
+
+! 1/3/2019, 1:03:04 AM https://finance.yahoo.com/portfolio/p_0/view/v1
+finance.yahoo.com##.Bg\(featurebarGradient-0\).W\(100\%\).Pend\(163px\).Py\(8px\).Pstart\(0\).Whs\(n\).Bxz\(bb\).Bdrs\(2px\)
+
+! 1/3/2019, 1:03:15 AM https://finance.yahoo.com/portfolio/p_0/view/v1
+finance.yahoo.com##.Ov\(h\).Mend\(a\).Mstart\(a\).Bxz\(bb\).Pos\(r\)
+
+! 1/3/2019, 1:03:28 AM https://finance.yahoo.com/portfolio/p_0/view/v1
+finance.yahoo.com###Col1-0-PortfolioNewsStream-Proxy > section
+
+! 1/3/2019, 1:03:45 AM https://finance.yahoo.com/portfolio/p_0/view/v1
+finance.yahoo.com##.sticky-outer-wrapper
+
+! 1/3/2019, 1:04:48 AM https://finance.yahoo.com/quote/EURUSD%3DX/chart?p=EURUSD%3DX#eyJpbnRlcnZhbCI6ImRheSIsInBlcmlvZGljaXR5IjoxLCJ0aW1lVW5pdCI6bnVsbCwiY2FuZGxlV2lkdGgiOjgsInZvbHVtZVVuZGVybGF5Ijp0cnVlLCJhZGoiOnRydWUsImNyb3NzaGFpciI6dHJ1ZSwiY2hhcnRUeXBlIjoiY2FuZGxlIiwiZXh0ZW5kZWQiOmZhbHNlLCJtYXJrZXRTZXNzaW9ucyI6e30sImFnZ3JlZ2F0aW9uVHlwZSI6Im9obGMiLCJjaGFydFNjYWxlIjoibGluZWFyIiwicGFuZWxzIjp7ImNoYXJ0Ijp7InBlcmNlbnQiOjEsImRpc3BsYXkiOiJFVVJVU0Q9WCIsImNoYXJ0TmFtZSI6ImNoYXJ0IiwidG9wIjowfX0sInNldFNwYW4iOnt9LCJsaW5lV2lkdGgiOjIsInN0cmlwZWRCYWNrZ3JvdWQiOnRydWUsImV2ZW50cyI6dHJ1ZSwiY29sb3IiOiIjMDA4MWYyIiwiZXZlbnRNYXAiOnsiY29ycG9yYXRlIjp7fSwic2lnRGV2Ijp7fX0sImN1c3RvbVJhbmdlIjpudWxsLCJzeW1ib2xzIjpbeyJzeW1ib2wiOiJFVVJVU0Q9WCIsInN5bWJvbE9iamVjdCI6eyJzeW1ib2wiOiJFVVJVU0Q9WCJ9LCJwZXJpb2RpY2l0eSI6MSwiaW50ZXJ2YWwiOiJkYXkiLCJ0aW1lVW5pdCI6bnVsbCwic2V0U3BhbiI6e319LHsic3ltYm9sIjoiSlBZVVNEPVgiLCJzeW1ib2xPYmplY3QiOnsic3ltYm9sIjoiSlBZVVNEPVgifSwicGVyaW9kaWNpdHkiOjEsImludGVydmFsIjoiZGF5IiwidGltZVVuaXQiOm51bGwsInNldFNwYW4iOnt9LCJpZCI6IkpQWVVTRD1YIiwicGFyYW1ldGVycyI6eyJpc0NvbXBhcmlzb24iOnRydWUsImNvbG9yIjoiI2M3MDA4NSIsIndpZHRoIjo0LCJjaGFydE5hbWUiOiJjaGFydCIsInN5bWJvbE9iamVjdCI6eyJzeW1ib2wiOiJKUFlVU0Q9WCJ9LCJwYW5lbCI6ImNoYXJ0IiwiYWN0aW9uIjpudWxsLCJzaGFyZVlBeGlzIjp0cnVlLCJzeW1ib2wiOiJKUFlVU0Q9WCIsImdhcERpc3BsYXlTdHlsZSI6InRyYW5zcGFyZW50IiwibmFtZSI6IkpPSDBKUkZMQkEiLCJvdmVyQ2hhcnQiOnRydWUsInVzZUNoYXJ0TGVnZW5kIjp0cnVlLCJoZWlnaHRQZXJjZW50YWdlIjowLjcsIm9wYWNpdHkiOjEsImhpZ2hsaWdodGFibGUiOnRydWUsInR5cGUiOiJsaW5lIiwic3R5bGUiOiJzdHhfbGluZV9jaGFydCJ9fSx7InN5bWJvbCI6IkFVRFVTRD1YIiwic3ltYm9sT2JqZWN0Ijp7InN5bWJvbCI6IkFVRFVTRD1YIn0sInBlcmlvZGljaXR5IjoxLCJpbnRlcnZhbCI6ImRheSIsInRpbWVVbml0IjpudWxsLCJzZXRTcGFuIjp7fSwiaWQiOiJBVURVU0Q9WCIsInBhcmFtZXRlcnMiOnsiaXNDb21wYXJpc29uIjp0cnVlLCJjb2xvciI6IiNhZDZlZmYiLCJ3aWR0aCI6MiwiY2hhcnROYW1lIjoiY2hhcnQiLCJzeW1ib2xPYmplY3QiOnsic3ltYm9sIjoiQVVEVVNEPVgifSwicGFuZWwiOiJjaGFydCIsImFjdGlvbiI6bnVsbCwic2hhcmVZQXhpcyI6dHJ1ZSwic3ltYm9sIjoiQVVEVVNEPVgiLCJnYXBEaXNwbGF5U3R5bGUiOiJ0cmFuc3BhcmVudCIsIm5hbWUiOiJKT0gwSzRPRDdCIiwib3ZlckNoYXJ0Ijp0cnVlLCJ1c2VDaGFydExlZ2VuZCI6dHJ1ZSwiaGVpZ2h0UGVyY2VudGFnZSI6MC43LCJvcGFjaXR5IjoxLCJoaWdobGlnaHRhYmxlIjp0cnVlLCJ0eXBlIjoibGluZSIsInN0eWxlIjoic3R4X2xpbmVfY2hhcnQifX0seyJzeW1ib2wiOiJHQlBVU0Q9WCIsInN5bWJvbE9iamVjdCI6eyJzeW1ib2wiOiJHQlBVU0Q9WCJ9LCJwZXJpb2RpY2l0eSI6MSwiaW50ZXJ2YWwiOiJkYXkiLCJ0aW1lVW5pdCI6bnVsbCwic2V0U3BhbiI6e30sImlkIjoiR0JQVVNEPVgiLCJwYXJhbWV0ZXJzIjp7ImlzQ29tcGFyaXNvbiI6dHJ1ZSwiY29sb3IiOiIjNzJkM2ZmIiwid2lkdGgiOjQsImNoYXJ0TmFtZSI6ImNoYXJ0Iiwic3ltYm9sT2JqZWN0Ijp7InN5bWJvbCI6IkdCUFVTRD1YIn0sInBhbmVsIjoiY2hhcnQiLCJhY3Rpb24iOm51bGwsInNoYXJlWUF4aXMiOnRydWUsInN5bWJvbCI6IkdCUFVTRD1YIiwiZ2FwRGlzcGxheVN0eWxlIjoidHJhbnNwYXJlbnQiLCJuYW1lIjoiSk9IMExVNDJQTSIsIm92ZXJDaGFydCI6dHJ1ZSwidXNlQ2hhcnRMZWdlbmQiOnRydWUsImhlaWdodFBlcmNlbnRhZ2UiOjAuNywib3BhY2l0eSI6MSwiaGlnaGxpZ2h0YWJsZSI6dHJ1ZSwidHlwZSI6ImxpbmUiLCJzdHlsZSI6InN0eF9saW5lX2NoYXJ0In19XSwic3R1ZGllcyI6eyJ2b2wgdW5kciI6eyJ0eXBlIjoidm9sIHVuZHIiLCJpbnB1dHMiOnsiaWQiOiJ2b2wgdW5kciIsImRpc3BsYXkiOiJ2b2wgdW5kciJ9LCJvdXRwdXRzIjp7IlVwIFZvbHVtZSI6IiMwMGIwNjEiLCJEb3duIFZvbHVtZSI6IiNGRjMzM0EifSwicGFuZWwiOiJjaGFydCIsInBhcmFtZXRlcnMiOnsid2lkdGhGYWN0b3IiOjAuNDUsImNoYXJ0TmFtZSI6ImNoYXJ0In19fX0%3D
+finance.yahoo.com###YDC-Col1
+
+! 1/5/2019, 10:29:05 PM https://vol.moe/comic/10787.htm
+||vol.moe/img/bg-redpoint.png$image
+
+! 1/5/2019, 10:29:20 PM https://vol.moe/comic/10787.htm
+||vol.moe/img/bg-redpoint.png$image
+
+! 1/5/2019, 10:29:43 PM https://vol.moe/comic/10787.htm
+vol.moe###nav_left
+
+! 1/6/2019, 12:14:55 AM https://tw.manhuagui.com/comic/8496/82980.html#p=3
+||cf.hamreus.com/images/show/logo_mini.gif$image
+
+! 1/6/2019, 12:15:05 AM https://tw.manhuagui.com/comic/8496/82980.html#p=3
+tw.manhuagui.com##.header
+
+! 1/6/2019, 12:15:18 AM https://tw.manhuagui.com/comic/8496/82980.html#p=3
+tw.manhuagui.com##div.tc.w980:nth-of-type(3)
+
+! 1/6/2019, 12:15:25 AM https://tw.manhuagui.com/comic/8496/82980.html#p=3
+tw.manhuagui.com##.sub-btn.clearfix.w980
+
+! 1/6/2019, 12:56:03 PM http://www.dmeden.net/comichtml/280821/1.html?s=6&d=1
+www.dmeden.net###hh_3
+
+! 1/6/2019, 3:46:03 PM https://www.ithome.com.tw/news?page=4
+www.ithome.com.tw##.channel-headline
+
+! 1/6/2019, 3:46:25 PM https://www.ithome.com.tw/news?page=4
+www.ithome.com.tw##.region-sidebar-second.region
+
+! 1/6/2019, 3:46:34 PM https://www.ithome.com.tw/news?page=4
+||s4.itho.me/sites/default/files/cybersec2019b1227v2.gif$image
+
+! 1/6/2019, 3:48:14 PM https://www.ithome.com.tw/news?page=9
+||s4.itho.me/sites/default/files/*.gif$image
+
+! 1/6/2019, 3:48:45 PM https://www.ithome.com.tw/news?page=10
+||*itho.me/sites/default/files/cyber*.gif$image
+
+! 1/6/2019, 3:49:14 PM https://www.ithome.com.tw/news?page=11
+www.ithome.com.tw###cyber
+
+! 1/7/2019, 7:20:44 PM http://crosserr.pixnet.net/blog/post/97559685-%E5%A4%A7%E6%8E%A8~%E6%88%91%E5%9C%A8%E6%B8%85%E9%82%81%E7%9A%84%E5%AE%B6--banilah%28%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B9%89%E0%B8%B2%E0%B8%A2
+||pic.pimg.tw/crosserr/0f9a46d6f831da312252aac7adbe3e16.jpg$image
+
+! 1/7/2019, 7:20:56 PM http://crosserr.pixnet.net/blog/post/97559685-%E5%A4%A7%E6%8E%A8~%E6%88%91%E5%9C%A8%E6%B8%85%E9%82%81%E7%9A%84%E5%AE%B6--banilah%28%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B9%89%E0%B8%B2%E0%B8%A2
+crosserr.pixnet.net##.pixnavbar-d__navbar.pixnavbar
+
+! 1/7/2019, 7:21:46 PM http://crosserr.pixnet.net/blog/post/56785150
+||pic.pimg.tw/crosserr/0f9a46d6f831da312252aac7adbe3e16.jpg$image
+
+! 1/7/2019, 7:22:06 PM http://crosserr.pixnet.net/blog/post/56785150
+||pic.pimg.tw/crosserr/0f9a46d6f831da312252aac7adbe3e16.jpg$image
+
+! 1/7/2019, 7:22:29 PM http://crosserr.pixnet.net/blog/post/56785150
+||pic.pimg.tw/crosserr/0f9a46d6f831da312252aac7adbe3e16.jpg$image
+
+! 1/7/2019, 7:23:06 PM http://crosserr.pixnet.net/blog/post/97559685-%E5%A4%A7%E6%8E%A8~%E6%88%91%E5%9C%A8%E6%B8%85%E9%82%81%E7%9A%84%E5%AE%B6--banilah%28%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B9%89%E0%B8%B2%E0%B8%A2
+||pic.pimg.tw/crosserr/0f9a46d6f831da312252aac7adbe3e16.jpg$image
+
+! 1/9/2019, 1:16:07 AM https://www.facebook.com/groups/ereadingclub/?multi_permalinks=2264671123767408&notif_id=1546785285136027&notif_t=group_highlights&ref=notif
+www.facebook.com###mall_post_1482185840\:614017894\,100000508865343\,100000785326794\,1173253982\,100007700136238\,100000042131736\,100014085044740\,1380056976\,100004048854492\,801726099\:EntGroupsMYSKFeedObject\:a\:1\:\{s\:9\:\"mysk_type\"\;s\:17\:\"SUGGESTED_IN_MALL\"\;\}\:\:\:\:\:6
+
+! 1/9/2019, 1:16:14 AM https://www.facebook.com/groups/ereadingclub/?multi_permalinks=2264671123767408&notif_id=1546785285136027&notif_t=group_highlights&ref=notif
+www.facebook.com###u_0_1p
+
+! 1/9/2019, 4:13:16 PM https://www.books.com.tw/
+
+! 1/9/2019, 4:13:29 PM https://www.books.com.tw/
+www.books.com.tw##.nolazyload_img.omega.grid_15
+
+! 1/9/2019, 4:13:39 PM https://www.books.com.tw/
+www.books.com.tw##.lazyload.side_right_column.grid_5
+
+! 1/9/2019, 4:15:59 PM https://search.books.com.tw/search/query/cat/1/key/%E6%97%A5%E6%9C%AC%E7%BE%8E%E5%AD%B8/sort/1/c/0
+search.books.com.tw##.clearfix.search-mod-04.mod
+
+! 1/9/2019, 4:16:13 PM https://search.books.com.tw/search/query/cat/1/key/%E6%97%A5%E6%9C%AC%E7%BE%8E%E5%AD%B8/sort/1/c/0
+search.books.com.tw##.clearfix.wrap.grid_24
+
+! 1/9/2019, 4:16:23 PM https://search.books.com.tw/search/query/cat/1/key/%E6%97%A5%E6%9C%AC%E7%BE%8E%E5%AD%B8/sort/1/c/0
+search.books.com.tw##.clearfix.search-mod-01.mod
+
+! 1/9/2019, 4:16:34 PM https://search.books.com.tw/search/query/cat/1/key/%E6%97%A5%E6%9C%AC%E7%BE%8E%E5%AD%B8/sort/1/c/0
+search.books.com.tw##.cntlisearch11
+
+! 1/9/2019, 4:17:14 PM https://search.books.com.tw/search/query/cat/1/key/%E6%97%A5%E6%9C%AC%E7%BE%8E%E5%AD%B8/sort/1/c/0
+search.books.com.tw###header_id > .clearfix.grid_24
+
+! 1/9/2019, 4:18:43 PM https://search.books.com.tw/search/query/cat/1/key/%E6%97%A5%E6%9C%AC%E7%BE%8E%E5%AD%B8/sort/1/c/0
+search.books.com.tw##div.mc003.mod:nth-of-type(2) > .inner
+
+! 1/9/2019, 4:18:51 PM https://search.books.com.tw/search/query/cat/1/key/%E6%97%A5%E6%9C%AC%E7%BE%8E%E5%AD%B8/sort/1/c/0
+search.books.com.tw##div.mc003.mod:nth-of-type(3) > .inner
+
+! 1/9/2019, 4:28:55 PM https://www.books.com.tw/products/0010805369
+www.books.com.tw##.flash_banner > .activity
+
+! 1/9/2019, 4:29:06 PM https://www.books.com.tw/products/0010805369
+www.books.com.tw###header_id > .clearfix.grid_24
+
+! 1/9/2019, 4:29:23 PM https://www.books.com.tw/products/0010805369
+||im1.book.com.tw/image/getImage?i=https://addons.books.com.tw/G/ADbanner/2018/12/interior_home_950x40.jpg&v=5c177747$image
+
+! 1/9/2019, 4:29:30 PM https://www.books.com.tw/products/0010805369
+www.books.com.tw##.clearfix.type02_s009.mod > h3
+
+! 1/9/2019, 4:29:37 PM https://www.books.com.tw/products/0010805369
+www.books.com.tw##.clearfix.type02_s009.mod > .clearfix.mod_no > .clearfix.box
+
+! 1/9/2019, 4:29:51 PM https://www.books.com.tw/products/0010805369
+www.books.com.tw##div.clearfix.mod:nth-of-type(3) > .omega.grid_5
+
+! 1/9/2019, 4:30:03 PM https://www.books.com.tw/products/0010805369
+www.books.com.tw##.clearfix.type02_m065.mod
+
+! 1/9/2019, 4:30:10 PM https://www.books.com.tw/products/0010805369
+www.books.com.tw##.clearfix.type02_m098.mod_a
+
+! 1/9/2019, 4:30:19 PM https://www.books.com.tw/products/0010805369
+www.books.com.tw##.clearfix.type02_m066.mod
+
+! 1/9/2019, 4:30:26 PM https://www.books.com.tw/products/0010805369
+www.books.com.tw##.clearfix.wrap.grid_24
+
+! 1/9/2019, 4:30:44 PM https://www.books.com.tw/products/0010805369
+||im1.book.com.tw/image/getImage?i=https://addons.books.com.tw/G/ADbanner*$image
+
+! 1/9/2019, 4:30:59 PM https://www.books.com.tw/products/0010805369
+||im1.book.com.tw/image/getImage?i=https://addons.books.com.tw/G/ADbanner/*$image
+
+! 1/9/2019, 4:31:25 PM https://www.books.com.tw/products/0010805369
+www.books.com.tw##.clearfix.type02_s007.mod
+
+! 1/9/2019, 4:31:41 PM https://www.books.com.tw/products/0010805369
+www.books.com.tw##.clearfix.type02_p007.mod
+
+! 1/9/2019, 4:31:48 PM https://www.books.com.tw/products/0010805369
+||www.books.com.tw/csss/images/sp_type02_btn1.gif$image
+
+! 1/9/2019, 4:31:55 PM https://www.books.com.tw/products/0010805369
+www.books.com.tw##.btn > .type02_btn02 > span > span
+
+! 1/9/2019, 4:35:10 PM https://www.books.com.tw/products/0010785279
+www.books.com.tw##.clearfix.type02_s005.mod
+
+! 1/9/2019, 4:35:24 PM https://www.books.com.tw/products/0010785279
+www.books.com.tw##div.clearfix.mod:nth-of-type(4) > .omega.grid_5
+
+! 1/9/2019, 4:35:36 PM https://www.books.com.tw/products/0010785279
+www.books.com.tw##.clearfix.type02_m064.mod
+
+! 1/9/2019, 4:35:43 PM https://www.books.com.tw/products/0010785279
+www.books.com.tw##.clearfix.type02_m058.mod_b
+
+! 1/9/2019, 4:37:45 PM https://gvlf.gvm.com.tw/article_content_16855.html
+||gvlf.gvm.com.tw/img/header.jpg$image
+
+! 1/9/2019, 4:37:53 PM https://gvlf.gvm.com.tw/article_content_16855.html
+gvlf.gvm.com.tw##body > .container > .clearfix
+
+! 1/9/2019, 4:38:42 PM https://www.amazon.cn/dp/B0143VB6YK/ref=tmm_kin_title_sr?_encoding=UTF8&qid=1547018794&sr=8-2
+www.amazon.cn###dp > table:nth-of-type(1) > tbody > tr > td > table > tbody > tr > td
+
+! 1/9/2019, 4:39:00 PM https://www.amazon.cn/dp/B0143VB6YK/ref=tmm_kin_title_sr?_encoding=UTF8&qid=1547018794&sr=8-2
+||images-cn.ssl-images-amazon.com/images/G/28/gno/sprites/global-sprite-32-2x-v1._CB476259935_.png$image
+
+! 1/9/2019, 4:39:12 PM https://www.amazon.cn/dp/B0143VB6YK/ref=tmm_kin_title_sr?_encoding=UTF8&qid=1547018794&sr=8-2
+www.amazon.cn###nav-belt > .nav-right
+
+! 1/9/2019, 4:39:33 PM https://www.amazon.cn/dp/B0143VB6YK/ref=tmm_kin_title_sr?_encoding=UTF8&qid=1547018794&sr=8-2
+www.amazon.cn###hero-quick-promo > table > tbody > tr > td > table > tbody > tr > td
+
+! 1/9/2019, 4:39:41 PM https://www.amazon.cn/dp/B0143VB6YK/ref=tmm_kin_title_sr?_encoding=UTF8&qid=1547018794&sr=8-2
+www.amazon.cn##.a-declarative.kcpAppsPopOver > div
+
+! 1/9/2019, 4:58:34 PM https://db.books.com.tw/shopping/cart_list.php?item=0010692811
+db.books.com.tw##li:nth-of-type(1) > .prodetail_table > tbody > .ng.event_check > td:nth-of-type(2)
+
+! 1/9/2019, 4:59:07 PM https://db.books.com.tw/shopping/cart_list.php?item=0010692811
+db.books.com.tw##li:nth-of-type(2) > .prodetail_table > tbody > .ng.event_check
+
+! 1/9/2019, 4:59:17 PM https://db.books.com.tw/shopping/cart_list.php?item=0010692811
+db.books.com.tw##li:nth-of-type(3) > .prodetail_table > tbody > .ng.event_check > td:nth-of-type(2)
+
+! 1/9/2019, 4:59:32 PM https://db.books.com.tw/shopping/cart_list.php?item=0010692811
+db.books.com.tw###cartPkgForm
+
+! 1/9/2019, 4:59:43 PM https://db.books.com.tw/shopping/cart_list.php?item=0010692811
+db.books.com.tw###cartOtherForm
+
+! 1/9/2019, 4:59:51 PM https://db.books.com.tw/shopping/cart_list.php?item=0010692811
+db.books.com.tw##.cart_s_footer
+
+! 1/9/2019, 5:01:30 PM http://www.eslite.com/Search_BW.aspx?query=Wabi%20Sabi
+www.eslite.com###header_in
+
+! 1/9/2019, 5:01:37 PM http://www.eslite.com/Search_BW.aspx?query=Wabi%20Sabi
+www.eslite.com###searchbar
+
+! 1/9/2019, 11:00:05 PM https://www.facebook.com/groups/941278199343074/?ref=bookmarks
+www.facebook.com###mall_post_1482185840\:100015339662176\,100001544781365\,1149645616\,1093120577\,100000261963703\,1203897614\,100000025713238\,100028661288220\,100001830773278\,100000113157306\:EntGroupsMYSKFeedObject\:a\:1\:\{s\:9\:\"mysk_type\"\;s\:17\:\"SUGGESTED_IN_MALL\"\;\}\:\:\:\:\:6
+
+! 1/10/2019, 12:59:46 AM https://www.namecheap.com/domains/registration/results.aspx?domain=wabisabi
+www.namecheap.com##.style__show___h4oUp.style__picks___2u-A2
+
+! 1/10/2019, 11:04:45 AM https://www.facebook.com/TaiwanDigital/
+www.facebook.com###content_container > div > ._3-8y > div
+
+! 1/10/2019, 11:05:00 AM https://www.facebook.com/TaiwanDigital/
+www.facebook.com##._4-u8._754z._4-u2
+
+! 1/10/2019, 2:29:02 PM https://goods.ruten.com.tw/item/show?21846980679246
+goods.ruten.com.tw##.item-share
+
+! 1/10/2019, 2:29:20 PM https://goods.ruten.com.tw/item/show?21846980679246
+goods.ruten.com.tw##.goods.rt-alert-security
+
+! 1/10/2019, 2:29:33 PM https://goods.ruten.com.tw/item/show?21846980679246
+goods.ruten.com.tw##.rt-footer
+
+! 1/11/2019, 12:49:44 AM https://pirateproxy.app/search/Criminal%20Minds%20Beyond%20Borders%20S01%20WEB%20DL%20DD5%201%20H%20264%20BS/0/99/200
+pirateproxy.app###foot
+
+! 1/11/2019, 12:49:55 AM https://pirateproxy.app/
+pirateproxy.app##footer
+
+! 1/11/2019, 1:37:47 AM https://hokkfabrica.com/introducing-wabi-sabi/
+hokkfabrica.com###secondary
+
+! 1/11/2019, 1:39:56 AM https://www.amazon.com/Use-Turn-Setbacks-Into-Success-ebook/dp/B008GTIGRQ/ref=tmm_kin_title_sr?_encoding=UTF8&qid=&sr=
+www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
+
+! 1/11/2019, 1:41:49 AM https://www.amazon.cn/dp/0985832401/ref=sr_1_1?ie=UTF8&qid=1547142087&sr=8-1&keywords=Use+It%3A+Turn+Setbacks+Into+Success
+www.amazon.cn###heroQuickPromo_feature_div
+
+! 1/11/2019, 3:15:35 AM http://tvshowbox.tw/blog/post/35194333-%E6%B5%B7%E8%BB%8D%E7%BD%AA%E6%A1%88%E8%AA%BF%E6%9F%A5%E8%99%95ncis%E7%AC%AC%E5%8D%81%E5%85%AD%E5%AD%A3%E7%AC%AC1%E9%9B%86-%E5%8A%87%E6%83%85-%E5%8A%87%E7%85%A7-
+tvshowbox.tw###spotlight
+
+! 1/11/2019, 3:15:53 AM http://tvshowbox.tw/blog/post/35194333-%E6%B5%B7%E8%BB%8D%E7%BD%AA%E6%A1%88%E8%AA%BF%E6%9F%A5%E8%99%95ncis%E7%AC%AC%E5%8D%81%E5%85%AD%E5%AD%A3%E7%AC%AC1%E9%9B%86-%E5%8A%87%E6%83%85-%E5%8A%87%E7%85%A7-
+tvshowbox.tw###header
+
+! 1/11/2019, 3:16:04 AM http://tvshowbox.tw/blog/post/35194333-%E6%B5%B7%E8%BB%8D%E7%BD%AA%E6%A1%88%E8%AA%BF%E6%9F%A5%E8%99%95ncis%E7%AC%AC%E5%8D%81%E5%85%AD%E5%AD%A3%E7%AC%AC1%E9%9B%86-%E5%8A%87%E6%83%85-%E5%8A%87%E7%85%A7-
+tvshowbox.tw###box1235979 > .entry-content.box-text
+
+! 1/11/2019, 3:16:17 AM http://tvshowbox.tw/blog/post/35194333-%E6%B5%B7%E8%BB%8D%E7%BD%AA%E6%A1%88%E8%AA%BF%E6%9F%A5%E8%99%95ncis%E7%AC%AC%E5%8D%81%E5%85%AD%E5%AD%A3%E7%AC%AC1%E9%9B%86-%E5%8A%87%E6%83%85-%E5%8A%87%E7%85%A7-
+tvshowbox.tw###box1266790
+
+! 1/11/2019, 3:17:07 AM http://tvshowbox.tw/blog/post/35194333-%E6%B5%B7%E8%BB%8D%E7%BD%AA%E6%A1%88%E8%AA%BF%E6%9F%A5%E8%99%95ncis%E7%AC%AC%E5%8D%81%E5%85%AD%E5%AD%A3%E7%AC%AC1%E9%9B%86-%E5%8A%87%E6%83%85-%E5%8A%87%E7%85%A7-
+tvshowbox.tw##.author-profile
+
+! 1/11/2019, 3:18:18 AM http://tvshowbox.tw/blog/post/29051220
+tvshowbox.tw###links-row-2
+
+! 1/11/2019, 3:18:34 AM http://tvshowbox.tw/blog/post/29051220
+tvshowbox.tw###links-row-1
+
+! 1/11/2019, 4:07:20 PM http://subhd.com/do0/27073234
+subhd.com##.navbar-inverse.navbar > .container
+
+! 1/11/2019, 4:07:28 PM http://subhd.com/do0/27073234
+subhd.com##.navbar-inverse.navbar
+
+! 1/11/2019, 4:07:37 PM http://subhd.com/do0/27073234
+subhd.com###footer
+
+! 1/11/2019, 4:08:02 PM http://subhd.com/do0/27073234
+subhd.com##.col-xs-10 > .row > .col-md-2
+
+! 1/12/2019, 1:07:36 AM https://www.amazon.com/QUICK-CASH-FIVERR-OUTSOURCING-2015-ebook/dp/B013L1QFR6/ref=sr_1_5?s=digital-text&ie=UTF8&qid=1547221936&sr=1-5&keywords=Hack+Upwork
+www.amazon.com###productAlert_feature_div > table > tbody > tr > td
+
+! 1/12/2019, 2:03:38 AM https://hackernoon.com/why-you-should-never-use-upwork-ever-5c62848bdf46
+hackernoon.com##.js-stickyFooter.u-xs-paddingRight10.u-xs-paddingLeft10.u-zIndexMetabar.u-paddingBottom10.u-paddingTop10.u-borderBox.u-boxShadowTop.u-backgroundWhite.u-width100pct.u-bottom0.u-fixed
+
+! 1/13/2019, 10:53:37 PM https://www.torrentmap.com/bbs/board.php?bo_table=movie_old&page=458&wr_id=4928
+www.torrentmap.com###ad_board > div
+
+! 1/13/2019, 10:53:48 PM https://www.torrentmap.com/bbs/board.php?bo_table=movie_old&page=458&wr_id=4928
+www.torrentmap.com###container_wr > div:nth-of-type(5)
+
+! 1/13/2019, 10:53:56 PM https://www.torrentmap.com/bbs/board.php?bo_table=movie_old&page=458&wr_id=4928
+www.torrentmap.com###hd_wrapper
+
+! 1/29/2019, 11:10:10 PM https://www.taaze.tw/rwd_list.html?t=14&k=01&d=00
+www.taaze.tw###betaSlider
+! 8/17/2018, 2:31:13 AM http://subhd.com/do0/27043263
+subhd.com##body > .container:nth-of-type(1)
+
+! 9/22/2018, 12:49:57 AM http://subhd.com/ar0/327155
+||subhd.com/images/ap/*$image
+
+! 11/3/2018, 5:46:41 PM https://wealth.businessweekly.com.tw/GArticle.aspx?id=ARTL000112246
+||admsmaterial.businessweekly.com.tw/*$image
+
+! 11/8/2018, 12:27:28 PM https://www.cartoonmad.com/comic/526400282037005.html
+www.cartoonmad.com##body > table > tbody > tr:nth-of-type(4) > td
+
+! 11/8/2018, 12:27:38 PM https://www.cartoonmad.com/comic/526400282037005.html
+||www.cartoonmad.com/image/menubar3.gif$image
+
+! 11/10/2018, 11:34:23 AM http://subhd.com/search0/Charmed
+subhd.com##.container:nth-of-type(2) > div
+
+! 11/10/2018, 11:34:31 AM http://subhd.com/search0/Charmed
+subhd.com##.container:nth-of-type(3) > div
+
+! 11/10/2018, 11:34:40 AM http://subhd.com/search0/Charmed
+||subhd.com/images/ad/*$image
+
+##.pixnet-happix-pilot__launcher-bubble
+
+! 12/27/2018, 11:45:11 PM https://tw.appledaily.com/new/realtime
+||img.appledaily.com.tw/aws/tw/compone/d54fcb35bb4c45b9f06e2853df310703.jpg$image
+
+! 1/3/2019, 12:40:46 AM https://www.taaze.tw/rwd_index.html
+www.taaze.tw###topBannerSource
+
+! 1/3/2019, 12:40:58 AM https://www.taaze.tw/rwd_index.html
+www.taaze.tw##.col-md-12.col-sm-12 > .noticeArea > div:nth-of-type(2) > .notice-out
+
+! 1/3/2019, 12:41:07 AM https://www.taaze.tw/rwd_index.html
+||media.taaze.tw/showBanaerImage.html?pk=1000498596&width=1000&height=250&fill=f$image
+
+! 1/3/2019, 12:41:24 AM https://www.taaze.tw/rwd_index.html
+||media.taaze.tw/showBanaerImage*$image
+
+! 1/3/2019, 12:41:47 AM https://www.taaze.tw/goods/11100839687.html
+www.taaze.tw##div:nth-of-type(3) > .container_PC.container > .row
+
+! 1/3/2019, 12:42:05 AM https://www.taaze.tw/goods/11100839687.html
+www.taaze.tw##.col-md-3.col-sm-4 > .giftPanel.panel-default > .giftPanelBody.panel-body
+
+! 1/3/2019, 12:42:16 AM https://www.taaze.tw/goods/11100839687.html
+www.taaze.tw###alsobuyCarousel
+
+! 1/3/2019, 12:42:44 AM https://www.taaze.tw/goods/11100839687.html
+www.taaze.tw###sameCollectCarousel
+
+! 1/3/2019, 12:42:54 AM https://www.taaze.tw/goods/11100839687.html
+www.taaze.tw###hotItemsCarousel
+
+! 1/3/2019, 12:43:01 AM https://www.taaze.tw/goods/11100839687.html
+www.taaze.tw##div.hidden-md.hidden-sm.hidden-xs:nth-of-type(20) > .container
+
+! 1/3/2019, 12:43:12 AM https://www.taaze.tw/goods/11100839687.html
+www.taaze.tw###prodComment
+
+! 1/3/2019, 12:44:07 AM https://www.taaze.tw/cart.html
+www.taaze.tw##div.sp-add-item.row:nth-of-type(1)
+
+! 1/3/2019, 12:44:40 AM https://www.taaze.tw/cart.html
+www.taaze.tw##div.sp-add-item.row:nth-of-type(2)
+
+! 1/3/2019, 12:44:52 AM https://www.taaze.tw/cart.html
+www.taaze.tw##div.sp-add-item.row:nth-of-type(5)
+
+! 1/3/2019, 12:44:57 AM https://www.taaze.tw/cart.html
+www.taaze.tw##div.sp-add-item.row:nth-of-type(4)
+
+! 1/3/2019, 12:45:04 AM https://www.taaze.tw/cart.html
+www.taaze.tw##div.sp-add-item.row:nth-of-type(3)
+
+! 1/3/2019, 12:45:12 AM https://www.taaze.tw/cart.html
+www.taaze.tw##div.row:nth-of-type(6) > .col-xs-12 > span > strong
+
+! 1/3/2019, 12:45:17 AM https://www.taaze.tw/cart.html
+www.taaze.tw##div.row:nth-of-type(3) > .col-xs-12 > span > strong
+
+! 1/3/2019, 12:45:24 AM https://www.taaze.tw/cart.html
+||www.taaze.tw/images/cart/ba699_p.png$image
+
+! 1/3/2019, 12:45:31 AM https://www.taaze.tw/cart.html
+www.taaze.tw##div.hidden-md.hidden-sm.hidden-xs:nth-of-type(7) > .container
+
+! 1/3/2019, 12:45:43 AM https://www.taaze.tw/cart.html
+www.taaze.tw###notice_body
+
+! 1/3/2019, 1:03:04 AM https://finance.yahoo.com/portfolio/p_0/view/v1
+finance.yahoo.com##.Bg\(featurebarGradient-0\).W\(100\%\).Pend\(163px\).Py\(8px\).Pstart\(0\).Whs\(n\).Bxz\(bb\).Bdrs\(2px\)
+
+! 1/3/2019, 1:03:15 AM https://finance.yahoo.com/portfolio/p_0/view/v1
+finance.yahoo.com##.Ov\(h\).Mend\(a\).Mstart\(a\).Bxz\(bb\).Pos\(r\)
+
+! 1/3/2019, 1:03:28 AM https://finance.yahoo.com/portfolio/p_0/view/v1
+finance.yahoo.com###Col1-0-PortfolioNewsStream-Proxy > section
+
+! 1/3/2019, 1:03:45 AM https://finance.yahoo.com/portfolio/p_0/view/v1
+finance.yahoo.com##.sticky-outer-wrapper
+
+! 1/3/2019, 1:04:48 AM https://finance.yahoo.com/quote/EURUSD%3DX/chart?p=EURUSD%3DX#eyJpbnRlcnZhbCI6ImRheSIsInBlcmlvZGljaXR5IjoxLCJ0aW1lVW5pdCI6bnVsbCwiY2FuZGxlV2lkdGgiOjgsInZvbHVtZVVuZGVybGF5Ijp0cnVlLCJhZGoiOnRydWUsImNyb3NzaGFpciI6dHJ1ZSwiY2hhcnRUeXBlIjoiY2FuZGxlIiwiZXh0ZW5kZWQiOmZhbHNlLCJtYXJrZXRTZXNzaW9ucyI6e30sImFnZ3JlZ2F0aW9uVHlwZSI6Im9obGMiLCJjaGFydFNjYWxlIjoibGluZWFyIiwicGFuZWxzIjp7ImNoYXJ0Ijp7InBlcmNlbnQiOjEsImRpc3BsYXkiOiJFVVJVU0Q9WCIsImNoYXJ0TmFtZSI6ImNoYXJ0IiwidG9wIjowfX0sInNldFNwYW4iOnt9LCJsaW5lV2lkdGgiOjIsInN0cmlwZWRCYWNrZ3JvdWQiOnRydWUsImV2ZW50cyI6dHJ1ZSwiY29sb3IiOiIjMDA4MWYyIiwiZXZlbnRNYXAiOnsiY29ycG9yYXRlIjp7fSwic2lnRGV2Ijp7fX0sImN1c3RvbVJhbmdlIjpudWxsLCJzeW1ib2xzIjpbeyJzeW1ib2wiOiJFVVJVU0Q9WCIsInN5bWJvbE9iamVjdCI6eyJzeW1ib2wiOiJFVVJVU0Q9WCJ9LCJwZXJpb2RpY2l0eSI6MSwiaW50ZXJ2YWwiOiJkYXkiLCJ0aW1lVW5pdCI6bnVsbCwic2V0U3BhbiI6e319LHsic3ltYm9sIjoiSlBZVVNEPVgiLCJzeW1ib2xPYmplY3QiOnsic3ltYm9sIjoiSlBZVVNEPVgifSwicGVyaW9kaWNpdHkiOjEsImludGVydmFsIjoiZGF5IiwidGltZVVuaXQiOm51bGwsInNldFNwYW4iOnt9LCJpZCI6IkpQWVVTRD1YIiwicGFyYW1ldGVycyI6eyJpc0NvbXBhcmlzb24iOnRydWUsImNvbG9yIjoiI2M3MDA4NSIsIndpZHRoIjo0LCJjaGFydE5hbWUiOiJjaGFydCIsInN5bWJvbE9iamVjdCI6eyJzeW1ib2wiOiJKUFlVU0Q9WCJ9LCJwYW5lbCI6ImNoYXJ0IiwiYWN0aW9uIjpudWxsLCJzaGFyZVlBeGlzIjp0cnVlLCJzeW1ib2wiOiJKUFlVU0Q9WCIsImdhcERpc3BsYXlTdHlsZSI6InRyYW5zcGFyZW50IiwibmFtZSI6IkpPSDBKUkZMQkEiLCJvdmVyQ2hhcnQiOnRydWUsInVzZUNoYXJ0TGVnZW5kIjp0cnVlLCJoZWlnaHRQZXJjZW50YWdlIjowLjcsIm9wYWNpdHkiOjEsImhpZ2hsaWdodGFibGUiOnRydWUsInR5cGUiOiJsaW5lIiwic3R5bGUiOiJzdHhfbGluZV9jaGFydCJ9fSx7InN5bWJvbCI6IkFVRFVTRD1YIiwic3ltYm9sT2JqZWN0Ijp7InN5bWJvbCI6IkFVRFVTRD1YIn0sInBlcmlvZGljaXR5IjoxLCJpbnRlcnZhbCI6ImRheSIsInRpbWVVbml0IjpudWxsLCJzZXRTcGFuIjp7fSwiaWQiOiJBVURVU0Q9WCIsInBhcmFtZXRlcnMiOnsiaXNDb21wYXJpc29uIjp0cnVlLCJjb2xvciI6IiNhZDZlZmYiLCJ3aWR0aCI6MiwiY2hhcnROYW1lIjoiY2hhcnQiLCJzeW1ib2xPYmplY3QiOnsic3ltYm9sIjoiQVVEVVNEPVgifSwicGFuZWwiOiJjaGFydCIsImFjdGlvbiI6bnVsbCwic2hhcmVZQXhpcyI6dHJ1ZSwic3ltYm9sIjoiQVVEVVNEPVgiLCJnYXBEaXNwbGF5U3R5bGUiOiJ0cmFuc3BhcmVudCIsIm5hbWUiOiJKT0gwSzRPRDdCIiwib3ZlckNoYXJ0Ijp0cnVlLCJ1c2VDaGFydExlZ2VuZCI6dHJ1ZSwiaGVpZ2h0UGVyY2VudGFnZSI6MC43LCJvcGFjaXR5IjoxLCJoaWdobGlnaHRhYmxlIjp0cnVlLCJ0eXBlIjoibGluZSIsInN0eWxlIjoic3R4X2xpbmVfY2hhcnQifX0seyJzeW1ib2wiOiJHQlBVU0Q9WCIsInN5bWJvbE9iamVjdCI6eyJzeW1ib2wiOiJHQlBVU0Q9WCJ9LCJwZXJpb2RpY2l0eSI6MSwiaW50ZXJ2YWwiOiJkYXkiLCJ0aW1lVW5pdCI6bnVsbCwic2V0U3BhbiI6e30sImlkIjoiR0JQVVNEPVgiLCJwYXJhbWV0ZXJzIjp7ImlzQ29tcGFyaXNvbiI6dHJ1ZSwiY29sb3IiOiIjNzJkM2ZmIiwid2lkdGgiOjQsImNoYXJ0TmFtZSI6ImNoYXJ0Iiwic3ltYm9sT2JqZWN0Ijp7InN5bWJvbCI6IkdCUFVTRD1YIn0sInBhbmVsIjoiY2hhcnQiLCJhY3Rpb24iOm51bGwsInNoYXJlWUF4aXMiOnRydWUsInN5bWJvbCI6IkdCUFVTRD1YIiwiZ2FwRGlzcGxheVN0eWxlIjoidHJhbnNwYXJlbnQiLCJuYW1lIjoiSk9IMExVNDJQTSIsIm92ZXJDaGFydCI6dHJ1ZSwidXNlQ2hhcnRMZWdlbmQiOnRydWUsImhlaWdodFBlcmNlbnRhZ2UiOjAuNywib3BhY2l0eSI6MSwiaGlnaGxpZ2h0YWJsZSI6dHJ1ZSwidHlwZSI6ImxpbmUiLCJzdHlsZSI6InN0eF9saW5lX2NoYXJ0In19XSwic3R1ZGllcyI6eyJ2b2wgdW5kciI6eyJ0eXBlIjoidm9sIHVuZHIiLCJpbnB1dHMiOnsiaWQiOiJ2b2wgdW5kciIsImRpc3BsYXkiOiJ2b2wgdW5kciJ9LCJvdXRwdXRzIjp7IlVwIFZvbHVtZSI6IiMwMGIwNjEiLCJEb3duIFZvbHVtZSI6IiNGRjMzM0EifSwicGFuZWwiOiJjaGFydCIsInBhcmFtZXRlcnMiOnsid2lkdGhGYWN0b3IiOjAuNDUsImNoYXJ0TmFtZSI6ImNoYXJ0In19fX0%3D
+finance.yahoo.com###YDC-Col1
+
+! 1/5/2019, 10:29:05 PM https://vol.moe/comic/10787.htm
+||vol.moe/img/bg-redpoint.png$image
+
+! 1/5/2019, 10:29:20 PM https://vol.moe/comic/10787.htm
+||vol.moe/img/bg-redpoint.png$image
+
+! 1/5/2019, 10:29:43 PM https://vol.moe/comic/10787.htm
+vol.moe###nav_left
+
+! 1/6/2019, 12:14:55 AM https://tw.manhuagui.com/comic/8496/82980.html#p=3
+||cf.hamreus.com/images/show/logo_mini.gif$image
+
+! 1/6/2019, 12:15:05 AM https://tw.manhuagui.com/comic/8496/82980.html#p=3
+tw.manhuagui.com##.header
+
+! 1/6/2019, 12:15:18 AM https://tw.manhuagui.com/comic/8496/82980.html#p=3
+tw.manhuagui.com##div.tc.w980:nth-of-type(3)
+
+! 1/6/2019, 12:15:25 AM https://tw.manhuagui.com/comic/8496/82980.html#p=3
+tw.manhuagui.com##.sub-btn.clearfix.w980
+
+! 1/6/2019, 12:56:03 PM http://www.dmeden.net/comichtml/280821/1.html?s=6&d=1
+www.dmeden.net###hh_3
+
+! 1/6/2019, 3:46:03 PM https://www.ithome.com.tw/news?page=4
+www.ithome.com.tw##.channel-headline
+
+! 1/6/2019, 3:46:25 PM https://www.ithome.com.tw/news?page=4
+www.ithome.com.tw##.region-sidebar-second.region
+
+! 1/6/2019, 3:46:34 PM https://www.ithome.com.tw/news?page=4
+||s4.itho.me/sites/default/files/cybersec2019b1227v2.gif$image
+
+! 1/6/2019, 3:48:14 PM https://www.ithome.com.tw/news?page=9
+||s4.itho.me/sites/default/files/*.gif$image
+
+! 1/6/2019, 3:48:45 PM https://www.ithome.com.tw/news?page=10
+||*itho.me/sites/default/files/cyber*.gif$image
+
+! 1/6/2019, 3:49:14 PM https://www.ithome.com.tw/news?page=11
+www.ithome.com.tw###cyber
+
+! 1/7/2019, 7:20:44 PM http://crosserr.pixnet.net/blog/post/97559685-%E5%A4%A7%E6%8E%A8~%E6%88%91%E5%9C%A8%E6%B8%85%E9%82%81%E7%9A%84%E5%AE%B6--banilah%28%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B9%89%E0%B8%B2%E0%B8%A2
+||pic.pimg.tw/crosserr/0f9a46d6f831da312252aac7adbe3e16.jpg$image
+
+! 1/7/2019, 7:20:56 PM http://crosserr.pixnet.net/blog/post/97559685-%E5%A4%A7%E6%8E%A8~%E6%88%91%E5%9C%A8%E6%B8%85%E9%82%81%E7%9A%84%E5%AE%B6--banilah%28%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B9%89%E0%B8%B2%E0%B8%A2
+crosserr.pixnet.net##.pixnavbar-d__navbar.pixnavbar
+
+! 1/7/2019, 7:21:46 PM http://crosserr.pixnet.net/blog/post/56785150
+||pic.pimg.tw/crosserr/0f9a46d6f831da312252aac7adbe3e16.jpg$image
+
+! 1/7/2019, 7:22:06 PM http://crosserr.pixnet.net/blog/post/56785150
+||pic.pimg.tw/crosserr/0f9a46d6f831da312252aac7adbe3e16.jpg$image
+
+! 1/7/2019, 7:22:29 PM http://crosserr.pixnet.net/blog/post/56785150
+||pic.pimg.tw/crosserr/0f9a46d6f831da312252aac7adbe3e16.jpg$image
+
+! 1/7/2019, 7:23:06 PM http://crosserr.pixnet.net/blog/post/97559685-%E5%A4%A7%E6%8E%A8~%E6%88%91%E5%9C%A8%E6%B8%85%E9%82%81%E7%9A%84%E5%AE%B6--banilah%28%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B9%89%E0%B8%B2%E0%B8%A2
+||pic.pimg.tw/crosserr/0f9a46d6f831da312252aac7adbe3e16.jpg$image
+
+! 1/9/2019, 1:16:07 AM https://www.facebook.com/groups/ereadingclub/?multi_permalinks=2264671123767408&notif_id=1546785285136027&notif_t=group_highlights&ref=notif
+www.facebook.com###mall_post_1482185840\:614017894\,100000508865343\,100000785326794\,1173253982\,100007700136238\,100000042131736\,100014085044740\,1380056976\,100004048854492\,801726099\:EntGroupsMYSKFeedObject\:a\:1\:\{s\:9\:\"mysk_type\"\;s\:17\:\"SUGGESTED_IN_MALL\"\;\}\:\:\:\:\:6
+
+! 1/9/2019, 1:16:14 AM https://www.facebook.com/groups/ereadingclub/?multi_permalinks=2264671123767408&notif_id=1546785285136027&notif_t=group_highlights&ref=notif
+www.facebook.com###u_0_1p
+
+! 1/9/2019, 4:13:16 PM https://www.books.com.tw/
+
+! 1/9/2019, 4:13:29 PM https://www.books.com.tw/
+www.books.com.tw##.nolazyload_img.omega.grid_15
+
+! 1/9/2019, 4:13:39 PM https://www.books.com.tw/
+www.books.com.tw##.lazyload.side_right_column.grid_5
+
+! 1/9/2019, 4:15:59 PM https://search.books.com.tw/search/query/cat/1/key/%E6%97%A5%E6%9C%AC%E7%BE%8E%E5%AD%B8/sort/1/c/0
+search.books.com.tw##.clearfix.search-mod-04.mod
+
+! 1/9/2019, 4:16:13 PM https://search.books.com.tw/search/query/cat/1/key/%E6%97%A5%E6%9C%AC%E7%BE%8E%E5%AD%B8/sort/1/c/0
+search.books.com.tw##.clearfix.wrap.grid_24
+
+! 1/9/2019, 4:16:23 PM https://search.books.com.tw/search/query/cat/1/key/%E6%97%A5%E6%9C%AC%E7%BE%8E%E5%AD%B8/sort/1/c/0
+search.books.com.tw##.clearfix.search-mod-01.mod
+
+! 1/9/2019, 4:16:34 PM https://search.books.com.tw/search/query/cat/1/key/%E6%97%A5%E6%9C%AC%E7%BE%8E%E5%AD%B8/sort/1/c/0
+search.books.com.tw##.cntlisearch11
+
+! 1/9/2019, 4:17:14 PM https://search.books.com.tw/search/query/cat/1/key/%E6%97%A5%E6%9C%AC%E7%BE%8E%E5%AD%B8/sort/1/c/0
+search.books.com.tw###header_id > .clearfix.grid_24
+
+! 1/9/2019, 4:18:43 PM https://search.books.com.tw/search/query/cat/1/key/%E6%97%A5%E6%9C%AC%E7%BE%8E%E5%AD%B8/sort/1/c/0
+search.books.com.tw##div.mc003.mod:nth-of-type(2) > .inner
+
+! 1/9/2019, 4:18:51 PM https://search.books.com.tw/search/query/cat/1/key/%E6%97%A5%E6%9C%AC%E7%BE%8E%E5%AD%B8/sort/1/c/0
+search.books.com.tw##div.mc003.mod:nth-of-type(3) > .inner
+
+! 1/9/2019, 4:28:55 PM https://www.books.com.tw/products/0010805369
+www.books.com.tw##.flash_banner > .activity
+
+! 1/9/2019, 4:29:06 PM https://www.books.com.tw/products/0010805369
+www.books.com.tw###header_id > .clearfix.grid_24
+
+! 1/9/2019, 4:29:23 PM https://www.books.com.tw/products/0010805369
+||im1.book.com.tw/image/getImage?i=https://addons.books.com.tw/G/ADbanner/2018/12/interior_home_950x40.jpg&v=5c177747$image
+
+! 1/9/2019, 4:29:30 PM https://www.books.com.tw/products/0010805369
+www.books.com.tw##.clearfix.type02_s009.mod > h3
+
+! 1/9/2019, 4:29:37 PM https://www.books.com.tw/products/0010805369
+www.books.com.tw##.clearfix.type02_s009.mod > .clearfix.mod_no > .clearfix.box
+
+! 1/9/2019, 4:29:51 PM https://www.books.com.tw/products/0010805369
+www.books.com.tw##div.clearfix.mod:nth-of-type(3) > .omega.grid_5
+
+! 1/9/2019, 4:30:03 PM https://www.books.com.tw/products/0010805369
+www.books.com.tw##.clearfix.type02_m065.mod
+
+! 1/9/2019, 4:30:10 PM https://www.books.com.tw/products/0010805369
+www.books.com.tw##.clearfix.type02_m098.mod_a
+
+! 1/9/2019, 4:30:19 PM https://www.books.com.tw/products/0010805369
+www.books.com.tw##.clearfix.type02_m066.mod
+
+! 1/9/2019, 4:30:26 PM https://www.books.com.tw/products/0010805369
+www.books.com.tw##.clearfix.wrap.grid_24
+
+! 1/9/2019, 4:30:44 PM https://www.books.com.tw/products/0010805369
+||im1.book.com.tw/image/getImage?i=https://addons.books.com.tw/G/ADbanner*$image
+
+! 1/9/2019, 4:30:59 PM https://www.books.com.tw/products/0010805369
+||im1.book.com.tw/image/getImage?i=https://addons.books.com.tw/G/ADbanner/*$image
+
+! 1/9/2019, 4:31:25 PM https://www.books.com.tw/products/0010805369
+www.books.com.tw##.clearfix.type02_s007.mod
+
+! 1/9/2019, 4:31:41 PM https://www.books.com.tw/products/0010805369
+www.books.com.tw##.clearfix.type02_p007.mod
+
+! 1/9/2019, 4:31:48 PM https://www.books.com.tw/products/0010805369
+||www.books.com.tw/csss/images/sp_type02_btn1.gif$image
+
+! 1/9/2019, 4:31:55 PM https://www.books.com.tw/products/0010805369
+www.books.com.tw##.btn > .type02_btn02 > span > span
+
+! 1/9/2019, 4:35:10 PM https://www.books.com.tw/products/0010785279
+www.books.com.tw##.clearfix.type02_s005.mod
+
+! 1/9/2019, 4:35:24 PM https://www.books.com.tw/products/0010785279
+www.books.com.tw##div.clearfix.mod:nth-of-type(4) > .omega.grid_5
+
+! 1/9/2019, 4:35:36 PM https://www.books.com.tw/products/0010785279
+www.books.com.tw##.clearfix.type02_m064.mod
+
+! 1/9/2019, 4:35:43 PM https://www.books.com.tw/products/0010785279
+www.books.com.tw##.clearfix.type02_m058.mod_b
+
+! 1/9/2019, 4:37:45 PM https://gvlf.gvm.com.tw/article_content_16855.html
+||gvlf.gvm.com.tw/img/header.jpg$image
+
+! 1/9/2019, 4:37:53 PM https://gvlf.gvm.com.tw/article_content_16855.html
+gvlf.gvm.com.tw##body > .container > .clearfix
+
+! 1/9/2019, 4:38:42 PM https://www.amazon.cn/dp/B0143VB6YK/ref=tmm_kin_title_sr?_encoding=UTF8&qid=1547018794&sr=8-2
+www.amazon.cn###dp > table:nth-of-type(1) > tbody > tr > td > table > tbody > tr > td
+
+! 1/9/2019, 4:39:00 PM https://www.amazon.cn/dp/B0143VB6YK/ref=tmm_kin_title_sr?_encoding=UTF8&qid=1547018794&sr=8-2
+||images-cn.ssl-images-amazon.com/images/G/28/gno/sprites/global-sprite-32-2x-v1._CB476259935_.png$image
+
+! 1/9/2019, 4:39:12 PM https://www.amazon.cn/dp/B0143VB6YK/ref=tmm_kin_title_sr?_encoding=UTF8&qid=1547018794&sr=8-2
+www.amazon.cn###nav-belt > .nav-right
+
+! 1/9/2019, 4:39:33 PM https://www.amazon.cn/dp/B0143VB6YK/ref=tmm_kin_title_sr?_encoding=UTF8&qid=1547018794&sr=8-2
+www.amazon.cn###hero-quick-promo > table > tbody > tr > td > table > tbody > tr > td
+
+! 1/9/2019, 4:39:41 PM https://www.amazon.cn/dp/B0143VB6YK/ref=tmm_kin_title_sr?_encoding=UTF8&qid=1547018794&sr=8-2
+www.amazon.cn##.a-declarative.kcpAppsPopOver > div
+
+! 1/9/2019, 4:58:34 PM https://db.books.com.tw/shopping/cart_list.php?item=0010692811
+db.books.com.tw##li:nth-of-type(1) > .prodetail_table > tbody > .ng.event_check > td:nth-of-type(2)
+
+! 1/9/2019, 4:59:07 PM https://db.books.com.tw/shopping/cart_list.php?item=0010692811
+db.books.com.tw##li:nth-of-type(2) > .prodetail_table > tbody > .ng.event_check
+
+! 1/9/2019, 4:59:17 PM https://db.books.com.tw/shopping/cart_list.php?item=0010692811
+db.books.com.tw##li:nth-of-type(3) > .prodetail_table > tbody > .ng.event_check > td:nth-of-type(2)
+
+! 1/9/2019, 4:59:32 PM https://db.books.com.tw/shopping/cart_list.php?item=0010692811
+db.books.com.tw###cartPkgForm
+
+! 1/9/2019, 4:59:43 PM https://db.books.com.tw/shopping/cart_list.php?item=0010692811
+db.books.com.tw###cartOtherForm
+
+! 1/9/2019, 4:59:51 PM https://db.books.com.tw/shopping/cart_list.php?item=0010692811
+db.books.com.tw##.cart_s_footer
+
+! 1/9/2019, 5:01:30 PM http://www.eslite.com/Search_BW.aspx?query=Wabi%20Sabi
+www.eslite.com###header_in
+
+! 1/9/2019, 5:01:37 PM http://www.eslite.com/Search_BW.aspx?query=Wabi%20Sabi
+www.eslite.com###searchbar
+
+! 1/9/2019, 11:00:05 PM https://www.facebook.com/groups/941278199343074/?ref=bookmarks
+www.facebook.com###mall_post_1482185840\:100015339662176\,100001544781365\,1149645616\,1093120577\,100000261963703\,1203897614\,100000025713238\,100028661288220\,100001830773278\,100000113157306\:EntGroupsMYSKFeedObject\:a\:1\:\{s\:9\:\"mysk_type\"\;s\:17\:\"SUGGESTED_IN_MALL\"\;\}\:\:\:\:\:6
+
+! 1/10/2019, 12:59:46 AM https://www.namecheap.com/domains/registration/results.aspx?domain=wabisabi
+www.namecheap.com##.style__show___h4oUp.style__picks___2u-A2
+
+! 1/10/2019, 11:04:45 AM https://www.facebook.com/TaiwanDigital/
+www.facebook.com###content_container > div > ._3-8y > div
+
+! 1/10/2019, 11:05:00 AM https://www.facebook.com/TaiwanDigital/
+www.facebook.com##._4-u8._754z._4-u2
+
+! 1/10/2019, 2:29:02 PM https://goods.ruten.com.tw/item/show?21846980679246
+goods.ruten.com.tw##.item-share
+
+! 1/10/2019, 2:29:20 PM https://goods.ruten.com.tw/item/show?21846980679246
+goods.ruten.com.tw##.goods.rt-alert-security
+
+! 1/10/2019, 2:29:33 PM https://goods.ruten.com.tw/item/show?21846980679246
+goods.ruten.com.tw##.rt-footer
+
+! 1/11/2019, 12:49:44 AM https://pirateproxy.app/search/Criminal%20Minds%20Beyond%20Borders%20S01%20WEB%20DL%20DD5%201%20H%20264%20BS/0/99/200
+pirateproxy.app###foot
+
+! 1/11/2019, 12:49:55 AM https://pirateproxy.app/
+pirateproxy.app##footer
+
+! 1/11/2019, 1:37:47 AM https://hokkfabrica.com/introducing-wabi-sabi/
+hokkfabrica.com###secondary
+
+! 1/11/2019, 1:39:56 AM https://www.amazon.com/Use-Turn-Setbacks-Into-Success-ebook/dp/B008GTIGRQ/ref=tmm_kin_title_sr?_encoding=UTF8&qid=&sr=
+www.amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
+
+! 1/11/2019, 1:41:49 AM https://www.amazon.cn/dp/0985832401/ref=sr_1_1?ie=UTF8&qid=1547142087&sr=8-1&keywords=Use+It%3A+Turn+Setbacks+Into+Success
+www.amazon.cn###heroQuickPromo_feature_div
+
+! 1/11/2019, 3:15:35 AM http://tvshowbox.tw/blog/post/35194333-%E6%B5%B7%E8%BB%8D%E7%BD%AA%E6%A1%88%E8%AA%BF%E6%9F%A5%E8%99%95ncis%E7%AC%AC%E5%8D%81%E5%85%AD%E5%AD%A3%E7%AC%AC1%E9%9B%86-%E5%8A%87%E6%83%85-%E5%8A%87%E7%85%A7-
+tvshowbox.tw###spotlight
+
+! 1/11/2019, 3:15:53 AM http://tvshowbox.tw/blog/post/35194333-%E6%B5%B7%E8%BB%8D%E7%BD%AA%E6%A1%88%E8%AA%BF%E6%9F%A5%E8%99%95ncis%E7%AC%AC%E5%8D%81%E5%85%AD%E5%AD%A3%E7%AC%AC1%E9%9B%86-%E5%8A%87%E6%83%85-%E5%8A%87%E7%85%A7-
+tvshowbox.tw###header
+
+! 1/11/2019, 3:16:04 AM http://tvshowbox.tw/blog/post/35194333-%E6%B5%B7%E8%BB%8D%E7%BD%AA%E6%A1%88%E8%AA%BF%E6%9F%A5%E8%99%95ncis%E7%AC%AC%E5%8D%81%E5%85%AD%E5%AD%A3%E7%AC%AC1%E9%9B%86-%E5%8A%87%E6%83%85-%E5%8A%87%E7%85%A7-
+tvshowbox.tw###box1235979 > .entry-content.box-text
+
+! 1/11/2019, 3:16:17 AM http://tvshowbox.tw/blog/post/35194333-%E6%B5%B7%E8%BB%8D%E7%BD%AA%E6%A1%88%E8%AA%BF%E6%9F%A5%E8%99%95ncis%E7%AC%AC%E5%8D%81%E5%85%AD%E5%AD%A3%E7%AC%AC1%E9%9B%86-%E5%8A%87%E6%83%85-%E5%8A%87%E7%85%A7-
+tvshowbox.tw###box1266790
+
+! 1/11/2019, 3:17:07 AM http://tvshowbox.tw/blog/post/35194333-%E6%B5%B7%E8%BB%8D%E7%BD%AA%E6%A1%88%E8%AA%BF%E6%9F%A5%E8%99%95ncis%E7%AC%AC%E5%8D%81%E5%85%AD%E5%AD%A3%E7%AC%AC1%E9%9B%86-%E5%8A%87%E6%83%85-%E5%8A%87%E7%85%A7-
+tvshowbox.tw##.author-profile
+
+! 1/11/2019, 3:18:18 AM http://tvshowbox.tw/blog/post/29051220
+tvshowbox.tw###links-row-2
+
+! 1/11/2019, 3:18:34 AM http://tvshowbox.tw/blog/post/29051220
+tvshowbox.tw###links-row-1
+
+! 1/11/2019, 4:07:20 PM http://subhd.com/do0/27073234
+subhd.com##.navbar-inverse.navbar > .container
+
+! 1/11/2019, 4:07:28 PM http://subhd.com/do0/27073234
+subhd.com##.navbar-inverse.navbar
+
+! 1/11/2019, 4:07:37 PM http://subhd.com/do0/27073234
+subhd.com###footer
+
+! 1/11/2019, 4:08:02 PM http://subhd.com/do0/27073234
+subhd.com##.col-xs-10 > .row > .col-md-2
+
+! 1/12/2019, 1:07:36 AM https://www.amazon.com/QUICK-CASH-FIVERR-OUTSOURCING-2015-ebook/dp/B013L1QFR6/ref=sr_1_5?s=digital-text&ie=UTF8&qid=1547221936&sr=1-5&keywords=Hack+Upwork
+www.amazon.com###productAlert_feature_div > table > tbody > tr > td
+
+! 1/12/2019, 2:03:38 AM https://hackernoon.com/why-you-should-never-use-upwork-ever-5c62848bdf46
+hackernoon.com##.js-stickyFooter.u-xs-paddingRight10.u-xs-paddingLeft10.u-zIndexMetabar.u-paddingBottom10.u-paddingTop10.u-borderBox.u-boxShadowTop.u-backgroundWhite.u-width100pct.u-bottom0.u-fixed
+
+! 1/13/2019, 10:53:37 PM https://www.torrentmap.com/bbs/board.php?bo_table=movie_old&page=458&wr_id=4928
+www.torrentmap.com###ad_board > div
+
+! 1/13/2019, 10:53:48 PM https://www.torrentmap.com/bbs/board.php?bo_table=movie_old&page=458&wr_id=4928
+www.torrentmap.com###container_wr > div:nth-of-type(5)
+
+! 1/13/2019, 10:53:56 PM https://www.torrentmap.com/bbs/board.php?bo_table=movie_old&page=458&wr_id=4928
+www.torrentmap.com###hd_wrapper
+
+! 1/14/2019, 2:58:29 AM https://www.setn.com/news.aspx?newsid=482142&fbclid=iwar29xvfjmkolqeibkufeox-pzrjgj46zamw20enm9pz7iw4dv4k8zkvau1y
+www.setn.com##.hidden-print.maintop-area.container-fluid
+
+! 1/14/2019, 2:59:16 AM https://www.setn.com/news.aspx?newsid=482142&fbclid=iwar29xvfjmkolqeibkufeox-pzrjgj46zamw20enm9pz7iw4dv4k8zkvau1y
+www.setn.com##.contRight.hidden-print.hidden-xs.hidden-sm.col-md-4.col-lg-3
+
+! 1/14/2019, 2:59:27 AM https://www.setn.com/news.aspx?newsid=482142&fbclid=iwar29xvfjmkolqeibkufeox-pzrjgj46zamw20enm9pz7iw4dv4k8zkvau1y
+www.setn.com##.hidden-print.rightFloat
+
+! 1/14/2019, 2:59:36 AM https://www.setn.com/news.aspx?newsid=482142&fbclid=iwar29xvfjmkolqeibkufeox-pzrjgj46zamw20enm9pz7iw4dv4k8zkvau1y
+www.setn.com##.web-allarea
+
+! 1/14/2019, 2:59:47 AM https://www.setn.com/news.aspx?newsid=482142&fbclid=iwar29xvfjmkolqeibkufeox-pzrjgj46zamw20enm9pz7iw4dv4k8zkvau1y
+www.setn.com##.contLeft.col-sm-12.col-md-8.col-lg-9 > .row:nth-of-type(1)
+
+! 1/14/2019, 2:59:57 AM https://www.setn.com/news.aspx?newsid=482142&fbclid=iwar29xvfjmkolqeibkufeox-pzrjgj46zamw20enm9pz7iw4dv4k8zkvau1y
+www.setn.com###aspnetForm > div:nth-of-type(4)
+
+! 1/14/2019, 3:00:08 AM https://www.setn.com/news.aspx?newsid=482142&fbclid=iwar29xvfjmkolqeibkufeox-pzrjgj46zamw20enm9pz7iw4dv4k8zkvau1y
+www.setn.com##.footer-area
+
+! 1/14/2019, 3:01:00 AM http://suzannettw.pixnet.net/blog/post/134231747-%E3%80%8C%E8%84%8A%E6%A4%8E%E8%9E%BA%E6%97%8B%E9%81%8B%E5%8B%95-%28gyrokinesis%C2%AE%29%E3%80%8D%E2%94%80%E2%94%80%E9%82%81%E5%90%91%E5%81%A5%E5%BA%B7
+suzannettw.pixnet.net##.navbar
+
+! 1/14/2019, 3:08:40 AM https://www.facebook.com/groups/1679199125676847
+www.facebook.com##._390x
+
+! 1/14/2019, 3:15:07 PM https://www.rescuetime.com/browse/Overview/1/by/rank/for/the/day/of/2019-01-14
+www.rescuetime.com##.report-table-container > .text-block
+
+! 1/14/2019, 3:43:00 PM https://www.sony.com.tw/zh/electronics/lenses/t/camera-lenses?cameramount=e-mount&sensor-lens=35mm-full-frame&type=prime-lenses
+www.sony.com.tw##.filtered.shuffle-item.promo.promo-tout.span4.detailed.gallery-item.secondary-tout
+
+! 1/14/2019, 4:42:40 PM https://www.facebook.com/sahsu.mobi/posts/10218576021820068?notif_id=1547454052839259&notif_t=feedback_reaction_generic&ref=notif
+www.facebook.com###u_0_r
+
+! 1/14/2019, 4:43:08 PM https://www.facebook.com/
+www.facebook.com##._64a
+
+! 1/15/2019, 6:35:59 PM https://www.dcfever.com/news/readnews.php?id=20317
+www.dcfever.com##.col-lg-right.col-md-right
+
+! 1/15/2019, 6:42:24 PM https://www.mobile01.com/topicdetail.php?f=254&t=4802232&p=34
+www.mobile01.com##.sidebar
+
+! 1/17/2019, 9:06:25 PM https://zoeyk.co/2019%e6%95%b8%e4%bd%8d%e7%94%a2%e5%93%81%e6%96%b0%e8%b6%a8%e5%8b%a2/
+||s.w.org/images/core/emoji/11/svg/1f600.svg$image
+
+! 1/17/2019, 9:07:08 PM https://zoeyk.co/2019%e6%95%b8%e4%bd%8d%e7%94%a2%e5%93%81%e6%96%b0%e8%b6%a8%e5%8b%a2/
+||s.w.org/images/core/emoji/*$image
+
+! 1/17/2019, 9:21:17 PM https://www.zhihu.com/question/26705997
+www.zhihu.com##.Question-sideColumn--sticky.Question-sideColumn
+
+! 1/21/2019, 1:08:42 AM https://www.dcfever.com/news/readnews.php?id=22091
+www.dcfever.com##p:nth-of-type(4)
+
+! 1/21/2019, 12:27:09 PM https://sale.591.com.tw/home/house/detail/2/5842349.html
+sale.591.com.tw##.triggerOne_show.house-knowledge
+
+! 1/21/2019, 1:12:17 PM https://book.tinynews.org/books/1028174360
+book.tinynews.org##.col-md-12 > div:nth-of-type(1) > div:nth-of-type(18)
+
+! 1/21/2019, 1:12:57 PM https://book.tinynews.org/books/1028174360
+book.tinynews.org##.col-md-12 > div:nth-of-type(1) > div:nth-of-type(4)
+
+! 1/23/2019, 12:05:21 AM https://www.ted.com/talks?sort=newest&language=zh-tw
+www.ted.com##.css-6nqjmp
+
+! 1/23/2019, 12:05:36 AM https://www.ted.com/talks?sort=newest&language=zh-tw
+www.ted.com##.talks-header
+
+! 1/24/2019, 1:46:25 AM https://rarbg.to/torrent/b4osa7c
+rarbg.to##div > .lista > tbody > tr:nth-of-type(5)
+
+! 1/24/2019, 10:23:14 PM http://immian.com/author/furch/?fbclid=IwAR3kJoZ7etrPWroPBGnLS660hgPwMOvxuyYzyNcUluAERZ73cVOcSSOvHfY
+immian.com###text-8 > .textwidget
+
+! 1/24/2019, 11:50:42 PM https://www.businessweekly.com.tw/article.aspx?id=15452&type=Blog&p=1&fbclid=IwAR06StLm8zRgU7M0fOnJydanVYxO0LHeeWfEE6mcxnQ9r1pk46rle4Lbsbg
+www.businessweekly.com.tw###ContentPlaceHolder1_tabbox_wrp_pn
+
+! 1/30/2019, 3:35:05 PM https://news.tvbs.com.tw/local/1074549
+news.tvbs.com.tw##.background-color1.newsdetail_box:nth-of-type(5)
+
+! 1/30/2019, 3:35:27 PM https://news.tvbs.com.tw/local/1074549
+news.tvbs.com.tw##.extended_box
+
+! 1/30/2019, 3:35:37 PM https://news.tvbs.com.tw/local/1074549
+news.tvbs.com.tw##.background-color1.newsdetail_box:nth-of-type(3)
+
+! 1/30/2019, 3:35:45 PM https://news.tvbs.com.tw/local/1074549
+news.tvbs.com.tw##.background-color1.newsdetail_box:nth-of-type(7) > .newsdetail_content2
+
+! 1/30/2019, 8:17:41 PM https://www.ettoday.net/news/20190127/1366889.htm
+www.ettoday.net##.et_push_notification
+
+! 2/1/2019, 3:43:12 PM https://hojenjen.com/%E7%9B%B8%E6%A9%9F-usb-%E5%85%85%E9%9B%BB/
+hojenjen.com##.td-post-content > table:nth-of-type(1)
+
+! 2/1/2019, 3:43:50 PM https://hojenjen.com/%E7%9B%B8%E6%A9%9F-usb-%E5%85%85%E9%9B%BB/
+hojenjen.com##.code-block-1.code-block
+
+! 2/1/2019, 3:44:10 PM https://hojenjen.com/%E7%9B%B8%E6%A9%9F-usb-%E5%85%85%E9%9B%BB/
+hojenjen.com##.code-block-25.code-block
+
+! 2/1/2019, 3:44:29 PM https://hojenjen.com/%E7%9B%B8%E6%A9%9F-usb-%E5%85%85%E9%9B%BB/
+hojenjen.com##table:nth-of-type(2)
+
+! 2/1/2019, 3:44:42 PM https://hojenjen.com/%E7%9B%B8%E6%A9%9F-usb-%E5%85%85%E9%9B%BB/
+hojenjen.com##footer
+
+! 2/1/2019, 3:44:49 PM https://hojenjen.com/%E7%9B%B8%E6%A9%9F-usb-%E5%85%85%E9%9B%BB/
+hojenjen.com##.td-footer-template-14.td-footer-wrapper
+
+! 9/27/2019 https://subhd.tv
+subhd.tv##.ADTOPLB_978
+subhd.tv##.ADTOPLB_444
+subhd.tv##.ADTOPLB_718
+||pic.cytcm.com/2019images/*$image
+
+! 9/29/2019 https://subhd.tv
+subhd.tv##li:nth-of-type(1) > [href^="/up/count_ad"]
+subhd.tv##.bd
+
+! 10/15/2019 https://www.mobile01.com
+www.mobile01.com##div.u-gapNextV--lg:nth-of-type(9)
+
+! 11/2/2019 https://subhd.tv
+subhd.tv##.ADTOPLB_91
+
+! 11/3/2019 https://pirateproxy.us
+||www.powr.io/paypal-button/u/04da7223_1556855429$subdocument
+pirateproxy.us###fbanners
+
+! 11/4/2019 https://www.amazon.com
+www.amazon.com##.octopus-dotd-card.octopus-pc-card.a-section
+
+! 11/6/2019 https://jlcollinsnh.com
+jlcollinsnh.com##.leaderboard-widget-area
+
+! 12/30/2019 https://www.mobile01.com
+www.mobile01.com##.l-content__side
+
+! 2/6/2020 http://subhd.la
+subhd.la##.carousel-inner
+
+! 5/28/2020 http://subhd.tv
+subhd.tv###adad
+
