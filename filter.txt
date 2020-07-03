@@ -944,3 +944,15 @@ tw.appledaily.com##div.tw-max_width.article-text-size_md.text--mobile.text--desk
 *.pixnet.net###box1200910
 *.pixnet.net###footer
 *.pixnet.net###pilot
+! 7/3/2020 https://*.pixnet.net for ios safari
+*.pixnet.net##.navbar
+*.pixnet.net##.subscribe-bar-container
+*.pixnet.net##div.article-info.article-header:nth-of-type(2)
+*.pixnet.net##.header-author-info
+*.pixnet.net##.showed-gift.gift-bounce.activat-gift.pixnet-happix-pilot__launcher-bar
+*.pixnet.net##.tag-container-parent
+*.pixnet.net###article-hot-wrapper
+*.pixnet.net##.discover-stream
+*.pixnet.net##.pix-related-post-showed.pix-related-post
+*.pixnet.net##.pix-related-post--recommend.pix-related-post
+
