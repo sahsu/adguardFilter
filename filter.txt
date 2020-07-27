@@ -929,3 +929,34 @@ subhd.la##.carousel-inner
 ! 5/28/2020 http://subhd.tv
 subhd.tv###adad
 
+! 7/3/2020 https://tw.appledaily.com
+tw.appledaily.com##div.tw-max_width.article-text-size_md.text--mobile.text--desktop:nth-of-type(4)
+
+! 7/3/2020 https://*.pixnet.net
+*.pixnet.net##.bookmark
+*.pixnet.net##.pixnet-happix-pilot__launcher-bar-desktop
+*.pixnet.net##.navbar
+*.pixnet.net##.global-keyword.tag-container
+*.pixnet.net##.author-profile
+*.pixnet.net##.pix-related-post-showed.pix-related-post
+*.pixnet.net###user-post
+*.pixnet.net###box1200910
+*.pixnet.net###footer
+*.pixnet.net###pilot
+! 7/3/2020 https://*.pixnet.net for ios safari
+*.pixnet.net##.navbar
+*.pixnet.net##.subscribe-bar-container
+*.pixnet.net##div.article-info.article-header:nth-of-type(2)
+*.pixnet.net##.header-author-info
+*.pixnet.net##.showed-gift.gift-bounce.activat-gift.pixnet-happix-pilot__launcher-bar
+*.pixnet.net##.tag-container-parent
+*.pixnet.net###article-hot-wrapper
+*.pixnet.net##.discover-stream
+*.pixnet.net##.pix-related-post-showed.pix-related-post
+*.pixnet.net##.pix-related-post--recommend.pix-related-post
+*.pixnet.net####ad-full-page
+
+! 7/7/2020 https://hx856.com
+||hx856.com/File/image/20200328/20200328094312_4708.jpg$image
+
+##body > [href^="https://biggo.com.tw/r/"]

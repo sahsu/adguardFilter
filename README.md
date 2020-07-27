@@ -1,5 +1,5 @@
 # adguardFilter
-it's my browser's non-blocked ads list, feel free to use
+I move everything ads once I block and my ios device will apply that setting too.
 
 # how to use
 
