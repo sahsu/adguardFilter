@@ -10,7 +10,6 @@ www.ithome.com.tw###skybanner
 www.ithome.com.tw###block-block-3
 www.ithome.com.tw##.content > .side-extra
 www.ithome.com.tw##.region-sidebar-second.region
-! 7/3/2020 https://www.ithome.com.tw
 www.ithome.com.tw###block-block-45
 www.ithome.com.tw###block-block-10
 www.ithome.com.tw###block-block-22 > .social-btn-set
