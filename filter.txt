@@ -960,3 +960,4 @@ tw.appledaily.com##div.tw-max_width.article-text-size_md.text--mobile.text--desk
 ! 7/7/2020 https://hx856.com
 ||hx856.com/File/image/20200328/20200328094312_4708.jpg$image
 
+||biggo.com.tw/api/get_image.php
