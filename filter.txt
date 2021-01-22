@@ -965,3 +965,10 @@ tw.appledaily.com##div.tw-max_width.article-text-size_md.text--mobile.text--desk
 ! 2020-10-05 https://subhd.tv
 subhd.tv##.carousel-inner
 `
+! 2020-12-31 https://jamesaltucher.com
+jamesaltucher.com###\36 jFUdaTD5k > .legacy-signup-promo.openx-incontent
+jamesaltucher.com###FUbixqVN03 > .legacy-signup-promo.openx-incontent
+jamesaltucher.com##.visible.incontent.openxzone
+jamesaltucher.com##.visible.large_openx.openxzone
+
+
