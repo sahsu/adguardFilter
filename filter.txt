@@ -971,4 +971,5 @@ jamesaltucher.com###FUbixqVN03 > .legacy-signup-promo.openx-incontent
 jamesaltucher.com##.visible.incontent.openxzone
 jamesaltucher.com##.visible.large_openx.openxzone
 
-
+! 2021-03-10 https://ebook-hunter.org
+ebook-hunter.org##.list_title.index_box_info
