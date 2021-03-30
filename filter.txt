@@ -973,3 +973,9 @@ jamesaltucher.com##.visible.large_openx.openxzone
 
 ! 2021-03-10 https://ebook-hunter.org
 ebook-hunter.org##.list_title.index_box_info
+
+! 2021-03-29 https://www.cnbctv18.com
+www.cnbctv18.com##.main-header-wrap
+www.cnbctv18.com##.PR.video-title
+
+
