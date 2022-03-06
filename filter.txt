@@ -978,4 +978,29 @@ ebook-hunter.org##.list_title.index_box_info
 www.cnbctv18.com##.main-header-wrap
 www.cnbctv18.com##.PR.video-title
 
+! 2021-04-17 https://immian.com
+immian.com##.q2w3-fixed-widget-container
+
+! 2021-07-10 https://www.pionex.com
+www.pionex.com##pre.has-text-align-left.wp-block-verse:nth-of-type(5)
+www.pionex.com##.is-style-large.wp-block-quote > p
+www.pionex.com##.wp-block-group__inner-container > .wp-block-preformatted
+www.pionex.com##pre.has-text-align-left.wp-block-verse:nth-of-type(2)
+www.pionex.com##pre.wp-block-verse:nth-of-type(1)
+www.pionex.com##pre.wp-block-verse:nth-of-type(2)
+www.pionex.com##pre.wp-block-verse:nth-of-type(3)
+
+! 2021-10-31 https://www.instagram.com
+www.instagram.com##div.ige_post.ige_stories:nth-of-type(1)
+www.instagram.com##div.ige_post.ige_stories:nth-of-type(2)
+
+! 2021-11-02 https://tw.bid.yahoo.com
+tw.bid.yahoo.com###yui_3_12_0_4_1635908613254_105
+
+! 2021-12-16 https://www.lookintobitcoin.com
+||www.lookintobitcoin.com/static/img/ftx/Banner1.jpg$image
+
+! 2021-12-25 https://www.lookintobitcoin.com
+||www.lookintobitcoin.com/static/img/ftx/*$image
+
 
