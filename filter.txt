@@ -1003,4 +1003,69 @@ tw.bid.yahoo.com###yui_3_12_0_4_1635908613254_105
 ! 2021-12-25 https://www.lookintobitcoin.com
 ||www.lookintobitcoin.com/static/img/ftx/*$image
 
+! 2022-03-13 https://coinmarketcap.com
+coinmarketcap.com##.jiWaSe.ii1g3i-0 > .ivGjzC.mhbkgs-0 > .carousel-items-wrapper
+
+! 2022-05-04 https://macoshome.com
+||img.macoshome.com/2022/04/PDads22.jpg$image
+
+! 2022-05-13 https://www.cmegroup.com
+||www.cmegroup.com/content/dam/cmegroup/images/common/promos/data-promo-940x600.jpg$image
+www.cmegroup.com##.responsivegrid.main-content-section > .section.component > .container > .justify-content-start.row
+
+! 2022-08-20 https://auto.8891.com.tw
+auto.8891.com.tw##.featured-column-container--X0MNN
+auto.8891.com.tw###new-auto-right
+||img.8891.com.tw/campaigns/2020/icon-bg-2.png$image
+
+! 2022-08-27 https://www.sum.com.tw
+||www.sum.com.tw/newspic/1_1661411521.jpg$image
+
+! 2022-10-04 https://18comic.vip
+18comic.vip##div.col-xs-6.col-sm-3.col-md-3.col-lg-3 > .a413-60_c1
+
+! 2022-10-10 https://sale.591.com.tw
+sale.591.com.tw##.z-hascompany.clearfix.z-housing.houseList-item
+
+! 2022-10-17 https://learnrubythehardway.org
+learnrubythehardway.org##.center-xs.row.main-container > .center-xs.row
+
+! 2022-10-29 https://exercism.org
+exercism.org##.md\:mb-58.mb-40.nfp
+exercism.org##.announcement-bar > .lg-container
+
+! 2022-11-05 https://waitbutwhy.com
+||disqus.com/*$subdocument
+
+! 2022-11-27 https://contrarianthinking.co
+contrarianthinking.co##.elementor-popup-modal.dialog-type-lightbox.dialog-type-buttons.dialog-lightbox-widget.dialog-widget
+contrarianthinking.co##.elementor-section-height-default.elementor-section-boxed.elementor-section-content-middle.footer_blk_friday_sale.elementor-element-2cd3da7.elementor-element.elementor-top-section.elementor-section
+contrarianthinking.co##.elementor-element-9f51106.elementor-element.elementor-inner-column.elementor-col-100.elementor-column > .elementor-element-populated.elementor-widget-wrap
+contrarianthinking.co##.elementor-section-height-default.elementor-section-boxed.elementor-section-height-min-height.elementor-element-2f39912.elementor-element.elementor-inner-section.elementor-section
+
+! 2023-03-23 https://cxc.today
+||cxc.today/fs/pub/store/356249697186/b7ab7439-768c-473c-b45b-cd7520cde6ef.jpg$image
+cxc.today##div:nth-of-type(62)
+||cxc.today/fs/pub/store/*/*jpg$image
+||cxc.today/fs/pub/store/*/*.jpg$image
+
+! 2023-06-10 https://fundhot.com
+fundhot.com###floor1 > .detail-block > .left-side
+
+! 2023-06-15 https://sale.591.com.tw
+||*.591.com.tw/banner/*$image
+
+! 2023-06-18 https://www.leju.com.tw
+||leju-outside.s3-ap-northeast-1.amazonaws.com/po-ad-image/*$image
+
+! 2023-08-31 https://www.leju.com.tw
+||www.leju.com.tw/assets/images/fake-map.webp$image
+||www.leju.com.tw/assets/images/fake-map.webp$image
+
+! 2023-09-08 https://www.sinyi.com.tw
+www.sinyi.com.tw##.slick-initialized.recommendAIList.slick-slider
+www.sinyi.com.tw##.recommendListDiv
+www.sinyi.com.tw##div.d-lg-block.d-none:nth-of-type(4)
+www.sinyi.com.tw##.footer-keyword
+www.sinyi.com.tw##.helloBar-box-customized
 
