@@ -1069,3 +1069,24 @@ www.sinyi.com.tw##div.d-lg-block.d-none:nth-of-type(4)
 www.sinyi.com.tw##.footer-keyword
 www.sinyi.com.tw##.helloBar-box-customized
 
+! 2023-10-02 https://landchart.tw
+landchart.tw##h3.px-3.py-3.my-3.text-center:nth-of-type(1)
+landchart.tw###year-chart
+landchart.tw###season-chart
+landchart.tw##h3.px-3.py-3.my-3.text-center:nth-of-type(2)
+landchart.tw##h3.px-3.py-3.my-3.text-center:nth-of-type(4)
+landchart.tw###volume-chart-1-year
+landchart.tw##h3.px-3.py-3.my-3.text-center:nth-of-type(5)
+landchart.tw###volume-chart-2-year
+landchart.tw##h3.px-3.py-3.my-3.text-center:nth-of-type(6)
+landchart.tw###volume-chart-3-year
+landchart.tw##h3.px-3.py-3.my-3.text-center:nth-of-type(7)
+landchart.tw###volume-chart-1-season
+landchart.tw##h3.px-3.py-3.my-3.text-center:nth-of-type(8)
+landchart.tw###volume-chart-2-season
+landchart.tw##h3.px-3.py-3.my-3.text-center:nth-of-type(10)
+landchart.tw###volume-chart-1-month
+landchart.tw##h3.px-3.py-3.my-3.text-center:nth-of-type(11)
+landchart.tw###volume-chart-2-month
+
+
