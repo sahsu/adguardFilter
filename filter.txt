@@ -1102,5 +1102,9 @@ www.leju.com.tw##.transaction-info.lg\:pb-36px.pb-20px.\33 xl\:px-30px.lg\:px-20
 www.leju.com.tw##.space-y-12px.newer-tool.ex-lg\:pb-20px.ex-lg\:px-10px.lg\:pb-36px.lg\:px-12px.flex-grow-0.flex-col.flex
 www.leju.com.tw##.pl-6.space-y-4.my-4
 www.leju.com.tw##.recommend-object.pb-20px.lg\:pb-36px.\33 xl\:px-30px.lg\:px-20px.px-10px
+! 2023-10-02 https://www.leju.com.tw
+www.leju.com.tw##.w-full.object-contain
+www.leju.com.tw##.hover\:scale-105.hover\:-translate-y-1.to_expert_button.cursor-pointer.transform.ease-in-out.duration-500.transition.fixed
+
 
 
