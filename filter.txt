@@ -1090,3 +1090,17 @@ landchart.tw##h3.px-3.py-3.my-3.text-center:nth-of-type(11)
 landchart.tw###volume-chart-2-month
 
 
+
+! 2023-10-02 https://www.leju.com.tw
+||www.leju.com.tw/assets/images/fake-map.webp$image
+www.leju.com.tw##.mt-28px.tool-tip-expert-question > .space-x-4.justify-center.items-center.flex
+www.leju.com.tw##.p-2.rounded-4px.border-grey-3.border-1px.bg-white.min-h-52px.items-center.justify-between.flex
+www.leju.com.tw##.bg-navy-7.master__person__splide.master-person.ex-lg\:pb-6.\33 xl\:px-30px.lg\:px-20px.px-10px
+www.leju.com.tw##.rounded-5px.pt-12px.text-0.sinopac-mortgage-tool__content.xl-s\:flex-row.xl-s\:justify-between.border-tiffany-3.border-t-1.border-dashed.flex-col.flex
+www.leju.com.tw##.pb-24px.pt-10px
+www.leju.com.tw##.transaction-info.lg\:pb-36px.pb-20px.\33 xl\:px-30px.lg\:px-20px.px-10px.valuation-tool.mb-0
+www.leju.com.tw##.space-y-12px.newer-tool.ex-lg\:pb-20px.ex-lg\:px-10px.lg\:pb-36px.lg\:px-12px.flex-grow-0.flex-col.flex
+www.leju.com.tw##.pl-6.space-y-4.my-4
+www.leju.com.tw##.recommend-object.pb-20px.lg\:pb-36px.\33 xl\:px-30px.lg\:px-20px.px-10px
+
+
