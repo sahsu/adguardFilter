@@ -1118,3 +1118,11 @@ www.leju.com.tw##.pl-6.space-y-4.my-4
 www.leju.com.tw##.is-active.splide--draggable.splide--ltr.splide--slide.recommend-object__splide.splide
 
 www.daybuy.tw##div:has(img[src*="chp-ads-block-detector/assets/img/icon.png"])
+
+! 2023-10-03 https://buy.yungching.com.tw
+buy.yungching.com.tw##.ng-scope.m-main-block
+
+! 2023-11-17 https://sale.591.com.tw
+sale.591.com.tw##.pull-right.side-area
+
+
