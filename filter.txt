@@ -1117,4 +1117,4 @@ www.leju.com.tw##.space-y-12px.newer-tool.ex-lg\:pb-20px.ex-lg\:px-10px.lg\:pb-3
 www.leju.com.tw##.pl-6.space-y-4.my-4
 www.leju.com.tw##.is-active.splide--draggable.splide--ltr.splide--slide.recommend-object__splide.splide
 
-
+www.daybuy.tw##div:has(img[src*="chp-ads-block-detector/assets/img/icon.png"])
