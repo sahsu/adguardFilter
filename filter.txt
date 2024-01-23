@@ -1138,4 +1138,41 @@ www.pttweb.cc##.e7-right-ads > div > div > .theme--dark.v-sheet.v-card.mx-2.py-2
 sale.591.com.tw##div.sale.list.clearfix.community-advert:nth-of-type(1)
 sale.591.com.tw##div.sale.list.clearfix.community-advert:nth-of-type(5)
 
+! 2024-01-23 https://sale.591.com.tw
+sale.591.com.tw##div.sale.list.clearfix.community-advert:nth-of-type(1)
+sale.591.com.tw##div.sale.list.clearfix.community-advert:nth-of-type(5)
+
+! 2024-01-23 https://www.pttweb.cc
+www.pttweb.cc##.e7-min-ad-height.my-5
+www.pttweb.cc##.e7-right-ads
+
+! 2023-10-03 https://buy.yungching.com.tw
+buy.yungching.com.tw##.ng-scope.m-main-block
+||admd.yungching.com.tw/MATERIAL/10820/18719D5E708.gif$image
+
+! 2023-10-15 https://www.facebook.com
+www.facebook.com##.x10wlt62.x6ikm8r > div > .x1ja2u2z.x1n2onr6.x9f619 > .x1y1aw1k.xwib8y2.x9otpla.x1wsgfga.x1ja2u2z.x1n2onr6.x9f619 > .xhfbhpw.x1rohswg.x1y1aw1k.xwib8y2.xat24cr.x9f619.x7p5m3t.xw2csxc.xjx87ck.x1yqm8si.xfk6m8.x1pq812k.x1ja2u2z.x1n2onr6.x10wlt62.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i
+www.facebook.com##.x1swvt13.xjkvuk6.x1pi30zi.xz9dl7a.x1qughib.x1q0g3np.x78zum5
+
+! 2023-10-20 https://www.facebook.com
+www.facebook.com##.xquyuld.x10wlt62.x6ikm8r.xh8yej3.xt3gfkd.xu5ydu1.xdney7k.x1qpq9i9.x2bj2ny.x1ja2u2z.x1n2onr6.x9f619 > .xh8yej3
+www.facebook.com##.xhfbhpw.x1rohswg.x1y1aw1k.xwib8y2.xat24cr.x9f619.x7p5m3t.xw2csxc.xjx87ck.x1yqm8si.xfk6m8.x1pq812k.x1ja2u2z.x1n2onr6.x10wlt62.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i
+
+! 2023-10-23 https://www.money101.com.tw
+www.money101.com.tw###hs_cos_wrapper_widget_61859210442 > div > .hs-embed-wrapper > .hs-embed-content-wrapper > div
+
+! 2023-11-07 https://www.youtube.com
+www.youtube.com###dismissible > .ytd-rich-shelf-renderer.style-scope
+
+! 2024-01-17 https://www.pttweb.cc
+www.pttweb.cc##div.e7-min-ad-height.my-4:nth-of-type(6)
+www.pttweb.cc##div.e7-min-ad-height.my-4:nth-of-type(13)
+www.pttweb.cc##.theme--dark.v-sheet.v-card.mx-2.py-2.px-3.darken-4.grey > div
+
+! 2024-01-18 https://seba.tw
+seba.tw###sidebar
+
+! 2024-01-23 https://www.pttweb.cc
+www.pttweb.cc##.e7-min-ad-height.my-5
+
 
