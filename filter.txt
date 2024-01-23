@@ -1125,4 +1125,17 @@ buy.yungching.com.tw##.ng-scope.m-main-block
 ! 2023-11-17 https://sale.591.com.tw
 sale.591.com.tw##.pull-right.side-area
 
+! 2023-12-02 https://www.money101.com.tw
+www.money101.com.tw##.hs-embed-content-wrapper > div
+
+! 2024-01-23 https://www.pttweb.cc
+www.pttweb.cc##div.e7-min-ad-height.my-4:nth-of-type(6)
+www.pttweb.cc##div.e7-min-ad-height.my-4:nth-of-type(13)
+www.pttweb.cc##.e7-min-ad-height.my-5
+www.pttweb.cc##.e7-right-ads > div > div > .theme--dark.v-sheet.v-card.mx-2.py-2.px-3.darken-4.grey
+
+! 2024-01-23 https://sale.591.com.tw
+sale.591.com.tw##div.sale.list.clearfix.community-advert:nth-of-type(1)
+sale.591.com.tw##div.sale.list.clearfix.community-advert:nth-of-type(5)
+
 
