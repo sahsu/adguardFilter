@@ -1207,4 +1207,5 @@ subhd.tv##body > .text-center
 ! Apr 28, 2025 https://www.nearby.com.tw
 ||shoplineimg.com/5dad948f376b23003a43dd8a/67cc30fc569d2f00118ae10d/*x.webp?source_format=jpg$image
 
+||t4.qy0.ru/*.gif
 
